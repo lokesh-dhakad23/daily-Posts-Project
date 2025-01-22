@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s05kk46",
-  "description": "https://scrimba.com/learn-firebase-c02r/~016",
+  "name": "daily-posts",
+  "description": "daily posts",
   "scripts": {
     "start": "vite",
     "dev": "vite",
